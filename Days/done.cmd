@@ -1,0 +1,1 @@
+move day%1.md %1day_done.md
